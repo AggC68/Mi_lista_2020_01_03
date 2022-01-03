@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:0 La 1
+http://103.194.169.171:8282/ES_LA_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
 #EXTINF:0,En tierras peligrosas (2021) 97min.
 https://www.fembed.com/v/68533b0n7d86kw-
 
@@ -7,6 +11,3 @@ https://www.fembed.com/v/pz8ddbmp-dk6gpe
 
 #EXTINF:0,Día de redención  (2021) 99min.
 https://www.fembed.com/v/jd8ppud4r0m4-8g
-
-#EXTINF:0, Donde caben dos (2021) 108min.
-https://www.fembed.com/v/qm800ae1g6jdyex
